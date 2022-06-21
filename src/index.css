@@ -1,0 +1,7 @@
+@import url('http://fonts.cdnfonts.com/css/gill-sans');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', sans-serif;
+}
